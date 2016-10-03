@@ -13,7 +13,7 @@ The web app performs a calculation based on the following four inputs:
 * Regular contract recurring cost  - based on a 24 month contract
 *  Any upfront cost for the handset
 
-Obviously in order to properly compare the two methods, the contract time has to match therefore the Sim-Only is assumed to run for 24 months;
+In order to properly compare the two methods, the contract time has to match therefore the Sim-Only is assumed to run for 24 months:
 
 ```javascript
 contractLength = 24;
