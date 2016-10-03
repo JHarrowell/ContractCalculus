@@ -2,6 +2,8 @@
 
 Whilst working for Three, a phone network in the UK, I found myself always doing this same comparison with customers. I made this tool for staff to use and currently a handful of stores use it during the sales pitches.
 
+[Click here to use the app](https://www.contractcalcul.us)
+
 ## What does it do?
 
 The web app performs a calculation based on the following four inputs:
